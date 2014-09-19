@@ -5,19 +5,14 @@ body {
 }
 
 #footer {
-
-	background-color: black;
-	color:white;
-	padding-top:3em;
-	padding-bottom:4em;
-	
+  background-color: #222;
+  color: #aaaaaa;
+  padding-top: 3em;
+  padding-bottom: 3em;
 }
 
 #footer a {
-
-	color: white;
-	font-size:35px;
-	vertical-align: middle;
+  color: #cccccc;
 
 }
 
